@@ -1,0 +1,15 @@
+{
+  "name": "maicnogueira/ftp",
+  "description": "Apenas uma conexão com FTP para listar e procurar arquivos.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Maic Nogueira",
+      "email": "maic.nd@hotmail.com"
+    }
+  ],
+  "require": {
+    "ext-ftp": "*"
+  }
+}
